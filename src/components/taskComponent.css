@@ -1,0 +1,36 @@
+ * {
+     margin: 0;
+     padding: 0;
+     box-sizing: "border-box";
+ }
+ 
+ .Main-container {
+     display: flex;
+     justify-content: center;
+     margin-top: 5rem;
+     gap: 3px;
+ }
+ 
+ .taskInput {
+     width: 20rem;
+     height: 2rem;
+     border-radius: 5px;
+     border: 1px solid black;
+     padding-left: 6px;
+ }
+ 
+ .submitButton {
+     width: 5rem;
+     border-radius: 5px;
+     border: 1px solid white;
+     background-color: #008CBA;
+     color: white;
+     cursor: pointer;
+ }
+ 
+ .prioritySelector {
+     border-radius: 5px;
+     border: 1px solid black;
+     cursor: pointer;
+     background-color: white;
+ }
