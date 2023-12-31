@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.sortButton {
+    width: 5rem;
+    border-radius: 5px;
+    border: 1px solid white;
+    background-color: #008CBA;
+    color: white;
+    cursor: pointer;
+    height: 2rem;
+}
